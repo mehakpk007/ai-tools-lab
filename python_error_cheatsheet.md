@@ -28,4 +28,25 @@ solve the actual problem correctly. AI suggestions can also sometimes
 be incorrect.
 
 Therefore, AI is a useful assistant for code review, but human review
-is still important for making the final decision.
+is still important for making the final decision ## Task 4: Code Translation
+
+The binary search program was translated from Python into Java, C++, and JavaScript.
+
+### Test Results
+
+- Python: Target found at index: 2
+- Java: Target found at index: 2
+- C++: Target found at index: 2
+- JavaScript: Target found at index: 2
+
+### Code Quality
+
+The translated programs produced the correct result. Each language uses its own syntax and common programming style, but the basic binary search logic remains the same.
+
+### Translation Errors
+
+No major translation errors were found during testing. All four programs gave the expected output.
+
+### AI Understanding vs Pattern Matching
+
+AI can translate code by recognizing patterns and applying the rules of different programming languages. However, this does not always mean that AI fully understands the purpose of the program. Human testing is still important to check whether the translated code is correct and suitable for the problem.
